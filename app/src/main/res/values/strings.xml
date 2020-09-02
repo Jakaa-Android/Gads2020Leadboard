@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gads2020Leadboard</string>
+    <string name="tab_2">This are the Skill IQ Leaders</string>
+    <string name="tab_1">This are the Learning Leaders</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+</resources>
